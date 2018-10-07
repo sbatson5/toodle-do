@@ -43,3 +43,7 @@ body {
   padding-bottom: 1.25em;
   grid-area: footer;
 }
+
+.crossed-out {
+  text-decoration: line-through;
+}
